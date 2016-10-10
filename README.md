@@ -1,7 +1,7 @@
 # hello-world
 
 
-Hello Fellow Hackers,
+Hello Human kind,
 
 
 I have always loved coding but I know little about it. 
